@@ -1,0 +1,746 @@
+STREET INFORMATION
+11TH AVENUE: 2
+4TH : 1
+4TH  only shows up in vol16_196.tif2
+6TH: 1
+6TH only shows up in vol16_270.tif2
+8TH: 1
+8TH only shows up in vol16_199.tif3
+8th: 1
+8th only shows up in vol16_386.tif2
+ADAM: 6
+ALBERT: 12
+ALMAR: 1
+ALMAR only shows up in vol16_399.tif2
+AMSTERDAM: 3
+ANDERSEN: 1
+ANDERSEN only shows up in vol16_090.tif4
+ARENDEL: 1
+ARENDEL only shows up in vol16_140.tif4
+ARINDEL: 1
+ARINDEL only shows up in vol16_114.tif2
+ARMSKIRK: 1
+ARMSKIRK only shows up in vol16_378.tif1
+ARUNDEL: 5
+ARYE: 3
+ASHLEY: 2
+ASPELING: 19
+ASPLING: 1
+ASPLING only shows up in vol16_165.tif2
+AYNE: 4
+AYRE: 9
+BALFOUR: 1
+BALFOUR only shows up in vol16_377.tif1
+BALIMORAL: 2
+BALMORAL: 4
+BARRACK: 2
+BASKET: 1
+BASKET only shows up in vol16_223.tif4
+BEANFORT: 1
+BEANFORT only shows up in vol16_329.tif3
+BEVERLEY: 1
+BEVERLEY only shows up in vol16_032.tif2
+BEYES: 1
+BEYES only shows up in vol16_171.tif3
+BLOEM: 1
+BLOEM only shows up in vol16_293.tif4
+BLOEMHOF: 2
+BLYMOUTH: 1
+BLYMOUTH only shows up in vol16_017.tif4
+BLYTH: 1
+BLYTH only shows up in vol16_322.tif3
+BLYTHE: 2
+BREE: 1
+BREE only shows up in vol16_387.tif2
+BRIDGE: 4
+BRONEWELL: 1
+BRONEWELL only shows up in vol16_265.tif3
+BROWN: 7
+BRUCE: 5
+BRUNT: 1
+BRUNT only shows up in vol16_198.tif1
+BRYANT: 1
+BRYANT only shows up in vol16_319.tif1
+BUCHANAN: 1
+BUCHANAN only shows up in vol16_282.tif4
+BUITENKANT: 1
+BUITENKANT only shows up in vol16_251.tif1
+BURWOOD: 1
+BURWOOD only shows up in vol16_149.tif2
+CALEDON: 37
+CALEDON : 2
+CALLEGE: 2
+CAMBORNE: 1
+CAMBORNE only shows up in vol16_297.tif3
+CAMBRIDGE: 8
+CANNIN: 1
+CANNIN only shows up in vol16_398.tif1
+CANNON: 10
+CANTEBURY: 2
+CANTERBURY: 17
+CENTERBURY: 2
+CHAMBERLAIN: 2
+CHAPEL: 19
+CHAPEL : 2
+CHATHAM: 18
+CHATHAN: 1
+CHATHAN only shows up in vol16_200.tif2
+CHESTER: 8
+CHURCH: 2
+CHYDE: 1
+CHYDE only shows up in vol16_355.tif2
+CLATHAM: 2
+CLIFTON: 4
+CLYDE: 1
+CLYDE only shows up in vol16_269.tif2
+COFFEE: 10
+COLLEGE: 8
+COLLEGE : 1
+COLLEGE  only shows up in vol16_005.tif2
+COMBRINCK: 2
+COMBRINK: 2
+COMMON: 1
+COMMON only shows up in vol16_205.tif2
+CONSTITUTION: 69
+CORONATION: 2
+COUST: 1
+COUST only shows up in vol16_346.tif3
+COVENTON: 1
+COVENTON only shows up in vol16_102.tif4
+COVENTRY: 1
+COVENTRY only shows up in vol16_339.tif4
+COWLEY: 2
+CROSS: 3
+DARLING: 1
+DARLING only shows up in vol16_236.tif4
+DE KORTE: 3
+DE KORTES: 2
+DE RODES: 1
+DE RODES only shows up in vol16_192.tif2
+DE VIELIER: 1
+DE VIELIER only shows up in vol16_261.tif4
+DE VILLERS: 1
+DE VILLERS only shows up in vol16_295.tif1
+DE VILLIEN: 2
+DE VILLIER: 3
+DE VILLIERS: 23
+DE VILLIES: 1
+DE VILLIES only shows up in vol16_059.tif2
+DE WAAL: 2
+DEKORTE: 2
+DENNE: 1
+DENNE only shows up in vol16_358.tif1
+DEUCHWONK: 1
+DEUCHWONK only shows up in vol16_385.tif4
+DEVILLES: 2
+DEVILLIERS: 3
+DEWAAL: 1
+DEWAAL only shows up in vol16_013.tif3
+DORP: 4
+DOVER: 2
+DR ABDURAMAN: 1
+DR ABDURAMAN only shows up in vol16_154.tif1
+DRURY: 1
+DRURY only shows up in vol16_379.tif1
+DUFF: 1
+DUFF only shows up in vol16_336.tif2
+DUKE: 13
+DUNCAN: 1
+DUNCAN only shows up in vol16_307.tif3
+De KORTE: 1
+De KORTE only shows up in vol16_070.tif2
+Dr. ABDARAMAN: 1
+Dr. ABDARAMAN only shows up in vol16_113.tif1
+EARTH: 1
+EARTH only shows up in vol16_351.tif1
+EATON: 3
+ECKARD: 9
+ECKARDT: 1
+ECKARDT only shows up in vol16_250.tif4
+ECKHARD: 2
+ECKHARDT: 5
+ELIZABETH: 1
+ELIZABETH only shows up in vol16_025.tif1
+ELKHARDT: 1
+ELKHARDT only shows up in vol16_248.tif2
+ERITH: 1
+ERITH only shows up in vol16_388.tif3
+ESSET: 1
+ESSET only shows up in vol16_109.tif4
+EXNER: 1
+EXNER only shows up in vol16_014.tif1
+FIFTH: 1
+FIFTH only shows up in vol16_335.tif3
+FILBURG: 1
+FILBURG only shows up in vol16_238.tif2
+FIRST: 2
+FOURTH: 1
+FOURTH only shows up in vol16_316.tif4
+FRANCIS: 3
+FRERE: 2
+GAY: 1
+GAY only shows up in vol16_357.tif3
+GLOUCESTER: 5
+GLYNN: 3
+GLYNN : 1
+GLYNN  only shows up in vol16_001.tif3
+GODFREY: 12
+GOOFFREY: 1
+GOOFFREY only shows up in vol16_196.tif4
+GORE: 1
+GORE only shows up in vol16_391.tif2
+GRAHAM: 1
+GRAHAM only shows up in vol16_304.tif4
+GRAND VIEW: 5
+GRAND VUE: 2
+GRANDVIEW : 1
+GRANDVIEW  only shows up in vol16_165.tif4
+GRANDVIEWS: 1
+GRANDVIEWS only shows up in vol16_169.tif3
+GRANT: 2
+GRAY: 10
+GREY: 3
+GYMPIE: 4
+HAMERKOPWY: 1
+HAMERKOPWY only shows up in vol16_241.tif3
+HAMILTON: 1
+HAMILTON only shows up in vol16_043.tif4
+HANOVER: 28
+HANOVER : 1
+HANOVER  only shows up in vol16_035.tif1
+HARDING: 1
+HARDING only shows up in vol16_002.tif1
+HAROLDENE: 1
+HAROLDENE only shows up in vol16_183.tif1
+HARRINGTON: 12
+HIERLING: 1
+HIERLING only shows up in vol16_306.tif1
+HIGH: 5
+HORSBERG: 1
+HORSBERG only shows up in vol16_361.tif4
+HORSBERGH: 1
+HORSBERGH only shows up in vol16_392.tif2
+HORSBURG: 3
+HORSTLEY: 14
+HOSBURGH: 1
+HOSBURGH only shows up in vol16_271.tif1
+HOUT: 1
+HOUT only shows up in vol16_341.tif3
+HUGO: 1
+HUGO only shows up in vol16_315.tif3
+HYDE: 3
+INVERY: 1
+INVERY only shows up in vol16_074.tif1
+IRENE: 5
+JAMIESON: 1
+JAMIESON only shows up in vol16_063.tif3
+JAMISON: 1
+JAMISON only shows up in vol16_287.tif4
+JAMISSON: 1
+JAMISSON only shows up in vol16_153.tif2
+JOHNS: 1
+JOHNS only shows up in vol16_039.tif4
+JOHNSON: 3
+JONKET: 1
+JONKET only shows up in vol16_265.tif1
+JOPPLAN: 1
+JOPPLAN only shows up in vol16_336.tif1
+KENDAL: 1
+KENDAL only shows up in vol16_259.tif3
+KENT: 10
+KEPPEL: 1
+KEPPEL only shows up in vol16_340.tif1
+KIEWIEBURY: 1
+KIEWIEBURY only shows up in vol16_308.tif3
+KIPLING: 1
+KIPLING only shows up in vol16_231.tif1
+KITCHEN: 1
+KITCHEN only shows up in vol16_135.tif2
+KITCHENER: 2
+KLAPPERBOS: 1
+KLAPPERBOS only shows up in vol16_097.tif2
+KLEIK: 1
+KLEIK only shows up in vol16_235.tif2
+KLIP: 1
+KLIP only shows up in vol16_226.tif1
+KLIPFONTEIN: 1
+KLIPFONTEIN only shows up in vol16_212.tif2
+KLOOF NEK : 1
+KLOOF NEK  only shows up in vol16_032.tif4
+LAVENDER: 16
+LAVENDER HILL: 1
+LAVENDER HILL only shows up in vol16_071.tif3
+LEE: 13
+LELIEBLOEW: 1
+LELIEBLOEW only shows up in vol16_245.tif2
+LESER: 1
+LESER only shows up in vol16_040.tif4
+LESS: 1
+LESS only shows up in vol16_154.tif2
+LEVER: 3
+LEWIS: 7
+LION: 1
+LION only shows up in vol16_141.tif4
+LOADE: 1
+LOADE only shows up in vol16_018.tif2
+LOADER: 3
+LOCH: 5
+LOCK: 3
+LOEH: 2
+LONGMARKET: 13
+LOODS PLEIN: 1
+LOODS PLEIN only shows up in vol16_142.tif4
+LOOP: 1
+LOOP only shows up in vol16_021.tif4
+LOWER MAIN: 1
+LOWER MAIN only shows up in vol16_251.tif2
+MAPINE: 1
+MAPINE only shows up in vol16_157.tif4
+MARIGOLD: 1
+MARIGOLD only shows up in vol16_177.tif4
+MARRIETTE: 1
+MARRIETTE only shows up in vol16_218.tif4
+MARRIOTT: 1
+MARRIOTT only shows up in vol16_167.tif2
+MARSDEN: 5
+MAWSEN: 1
+MAWSEN only shows up in vol16_030.tif2
+MAWSEU: 1
+MAWSEU only shows up in vol16_034.tif1
+MAYNARD: 1
+MAYNARD only shows up in vol16_373.tif3
+MCGREGOR: 7
+MCINTYRE: 4
+MCKENZIE: 10
+MELBOURNE: 1
+MELBOURNE only shows up in vol16_385.tif3
+MILAN: 3
+MILITOUS: 1
+MILITOUS only shows up in vol16_188.tif1
+MILLAN: 2
+MILTON: 4
+MINK: 1
+MINK only shows up in vol16_278.tif2
+MORENT: 1
+MORENT only shows up in vol16_354.tif1
+MORLAND TERRACE: 1
+MORLAND TERRACE only shows up in vol16_246.tif1
+MOUNT: 16
+MUIR: 1
+MUIR only shows up in vol16_042.tif2
+NAPIER: 1
+NAPIER only shows up in vol16_056.tif4
+NEMESIA: 1
+NEMESIA only shows up in vol16_207.tif1
+NEW CHURCH: 2
+NEW MARKET: 2
+NEWMARK: 1
+NEWMARK only shows up in vol16_181.tif1
+NEWMARKET: 5
+NILE: 8
+NULTON: 1
+NULTON only shows up in vol16_023.tif4
+OAK: 4
+OFF ALBERT: 1
+OFF ALBERT only shows up in vol16_231.tif2
+OLYMPIC: 1
+OLYMPIC only shows up in vol16_104.tif1
+ORMSKIRK: 1
+ORMSKIRK only shows up in vol16_187.tif1
+OSBORNE: 2
+OSEFORD: 1
+OSEFORD only shows up in vol16_240.tif4
+OTTERY: 1
+OTTERY only shows up in vol16_323.tif2
+OXFORD: 4
+PARDIN: 1
+PARDIN only shows up in vol16_133.tif2
+PARK: 4
+PARKIN: 13
+PARKINS: 1
+PARKINS only shows up in vol16_115.tif1
+PARLEIN: 3
+PEDERSEN: 8
+PERTH: 1
+PERTH only shows up in vol16_173.tif4
+PETERSEN: 1
+PETERSEN only shows up in vol16_324.tif1
+PETUNIA: 1
+PETUNIA only shows up in vol16_298.tif2
+PIET RETIEF: 1
+PIET RETIEF only shows up in vol16_099.tif3
+PINE: 1
+PINE only shows up in vol16_138.tif2
+PLYMOUTH: 9
+PONTAC: 5
+PONTIAC: 1
+PONTIAC only shows up in vol16_073.tif1
+PRIMROSE: 9
+PRINCESS: 4
+PRINCESS : 1
+PRINCESS  only shows up in vol16_043.tif2
+PRINSON: 1
+PRINSON only shows up in vol16_270.tif4
+PROSPECT: 6
+PROSPECT : 1
+PROSPECT  only shows up in vol16_039.tif1
+QUEEN: 8
+QUEEN'S: 1
+QUEEN'S only shows up in vol16_188.tif3
+QUEENS: 3
+RAVEMERAIJ: 1
+RAVEMERAIJ only shows up in vol16_309.tif1
+RAVENSCRAIG: 2
+REFORM: 5
+REGENT: 1
+REGENT only shows up in vol16_257.tif1
+RICHARD: 1
+RICHARD only shows up in vol16_163.tif3
+RICHMOND: 13
+RIEBACK: 2
+RIEBECK: 1
+RIEBECK only shows up in vol16_250.tif3
+RIEBEECK: 1
+RIEBEECK only shows up in vol16_174.tif2
+ROBINSON: 3
+ROCHESTER: 5
+ROELAND: 9
+ROELAND : 1
+ROELAND  only shows up in vol16_010.tif3
+ROGER: 10
+ROOS: 10
+ROSE: 2
+ROUWKOP: 1
+ROUWKOP only shows up in vol16_339.tif1
+RUGTER: 2
+RUSSELL: 18
+RUTGEN: 1
+RUTGEN only shows up in vol16_295.tif2
+RUTGER: 7
+RUTGERS: 1
+RUTGERS only shows up in vol16_272.tif3
+SACKVILLE: 19
+SALISBURY: 1
+SALISBURY only shows up in vol16_271.tif3
+SECOND: 2
+SELBORNE: 1
+SELBORNE only shows up in vol16_172.tif4
+SELKIRK: 1
+SELKIRK only shows up in vol16_100.tif2
+SELTARK: 1
+SELTARK only shows up in vol16_003.tif1
+SEVEN OAKS: 1
+SEVEN OAKS only shows up in vol16_234.tif1
+SHAUD: 1
+SHAUD only shows up in vol16_189.tif4
+SHEPHERD: 1
+SHEPHERD only shows up in vol16_139.tif2
+SHEPPARD: 6
+SHEPPARTD: 1
+SHEPPARTD only shows up in vol16_315.tif1
+SHULKERIS: 1
+SHULKERIS only shows up in vol16_241.tif4
+SIDNEY: 7
+SIR LOWRY: 20
+SIRDOWRY: 1
+SIRDOWRY only shows up in vol16_042.tif1
+SMART: 17
+SOREY: 1
+SOREY only shows up in vol16_021.tif1
+SORREY: 1
+SORREY only shows up in vol16_130.tif4
+SPRINGFELD: 1
+SPRINGFELD only shows up in vol16_296.tif3
+SPRINGFIELD: 18
+SPRINGFIELD TERRACE OFF PONTIAC: 1
+SPRINGFIELD TERRACE OFF PONTIAC only shows up in vol16_196.tif1
+ST JOHN'S: 1
+ST JOHN'S only shows up in vol16_190.tif3
+ST LEDGER: 2
+ST LEGER: 1
+ST LEGER only shows up in vol16_179.tif1
+ST PHILIP's: 1
+ST PHILIP's only shows up in vol16_264.tif2
+ST SISOM: 1
+ST SISOM only shows up in vol16_070.tif1
+ST THOMAS: 1
+ST THOMAS only shows up in vol16_321.tif4
+ST VINCENT: 2
+ST. VINCENT: 1
+ST. VINCENT only shows up in vol16_037.tif4
+ST.PHILLIPS: 1
+ST.PHILLIPS only shows up in vol16_009.tif4
+STATION: 1
+STATION only shows up in vol16_176.tif4
+STERLING: 1
+STERLING only shows up in vol16_166.tif4
+STIRLING: 21
+STONE: 22
+STOVE: 1
+STOVE only shows up in vol16_181.tif4
+STRAND: 1
+STRAND only shows up in vol16_103.tif4
+STUART: 1
+STUART only shows up in vol16_264.tif4
+STUCKER'S: 1
+STUCKER'S only shows up in vol16_034.tif4
+STUCKERIS: 5
+SUFFALK: 1
+SUFFALK only shows up in vol16_349.tif3
+SUFFOLK: 1
+SUFFOLK only shows up in vol16_297.tif2
+SUMMER: 2
+SURREY: 1
+SURREY only shows up in vol16_036.tif1
+SYDNEY: 1
+SYDNEY only shows up in vol16_391.tif1
+TEMATON ROAD: 1
+TEMATON ROAD only shows up in vol16_038.tif4
+TENANT: 1
+TENANT only shows up in vol16_164.tif4
+TENNANT: 13
+TILBURY: 3
+TOBUIR ROAD: 1
+TOBUIR ROAD only shows up in vol16_083.tif3
+TYNE: 1
+TYNE only shows up in vol16_162.tif3
+UPPER ASHELY: 1
+UPPER ASHELY only shows up in vol16_247.tif2
+UPPER ASHLEY: 18
+UPPER CANTEBURY: 1
+UPPER CANTEBURY only shows up in vol16_273.tif4
+UPPER CANTERBURY: 2
+UPPER CHURCH: 2
+UPPER CONSTITUTION: 7
+UPPER HARRINGTON: 1
+UPPER HARRINGTON only shows up in vol16_132.tif4
+UPPER NELSON: 3
+UPPER WARWICK: 1
+UPPER WARWICK only shows up in vol16_120.tif3
+VAN DE LEUR: 11
+VAN DER LEUR: 2
+VAN DER MEULEN: 2
+VANDELAUS: 2
+VERNON: 6
+VICTORIA: 6
+VICTORIA : 1
+VICTORIA  only shows up in vol16_041.tif3
+VINE: 3
+VIRGINA: 1
+VIRGINA only shows up in vol16_140.tif2
+VIRGINIA: 7
+VOGELGESANT: 2
+VOGELGEZANG: 1
+VOGELGEZANG only shows up in vol16_356.tif3
+VREDE: 3
+VREDENDAL: 1
+VREDENDAL only shows up in vol16_043.tif1
+VRIENDE: 1
+VRIENDE only shows up in vol16_320.tif2
+WATERKANT: 2
+WATERLOO: 1
+WATERLOO only shows up in vol16_141.tif3
+WEAVER: 1
+WEAVER only shows up in vol16_367.tif4
+WICHT: 8
+WILLIAM: 67
+WILLIAM : 1
+WILLIAM  only shows up in vol16_042.tif4
+WILLIAMS: 6
+WINDSER: 1
+WINDSER only shows up in vol16_295.tif3
+WINDSOR: 4
+WISHT: 1
+WISHT only shows up in vol16_079.tif4
+WORCESTER: 4
+WORCESTER : 1
+WORCESTER  only shows up in vol16_042.tif3
+WRIGHT: 1
+WRIGHT only shows up in vol16_263.tif2
+YARD: 1
+YARD only shows up in vol16_317.tif3
+YREDE: 1
+YREDE only shows up in vol16_005.tif3
+
+
+OTHER INFORMATION
+"BAYVIEW": 1
+"BAYVIEW" only shows up in vol16_215.tif3
+"HEADLEY": 1
+"HEADLEY" only shows up in vol16_040.tif3
+"HOPEWELL": 1
+"HOPEWELL" only shows up in vol16_043.tif4
+"THALS COTTAGES": 1
+"THALS COTTAGES" only shows up in vol16_083.tif3
+18 Lymmington Terrace: 1
+18 Lymmington Terrace only shows up in vol16_348.tif3
+1ST STREET, 4TH AVENUE, IRENE CRESCENT: 1
+1ST STREET, 4TH AVENUE, IRENE CRESCENT only shows up in vol16_326.tif2
+23: 1
+23 only shows up in vol16_330.tif4
+B.B. 33 MATROOSFONTEIN: 1
+B.B. 33 MATROOSFONTEIN only shows up in vol16_098.tif1
+BELGRAVIA EST: 1
+BELGRAVIA EST only shows up in vol16_196.tif2
+BELJRAWS EST OFF 7TH AVENUE: 1
+BELJRAWS EST OFF 7TH AVENUE only shows up in vol16_170.tif4
+BLOCK 4, FLAT 7 KEWTOWN: 1
+BLOCK 4, FLAT 7 KEWTOWN only shows up in vol16_145.tif4
+BLOEMHOF FLATS: 150
+BLOEMHOF FLATS, BLOCK J: 1
+BLOEMHOF FLATS, BLOCK J only shows up in vol16_130.tif2
+BUTLER SQUARE OFFICES: 1
+BUTLER SQUARE OFFICES only shows up in vol16_051.tif3
+BlOEMHOF FLATS: 1
+BlOEMHOF FLATS only shows up in vol16_388.tif4
+CANTEBURY FLATS: 5
+CANTERBURY FLATS: 12
+CAVALLA FLATS: 1
+CAVALLA FLATS only shows up in vol16_193.tif2
+CHATHAM FLATS: 3
+CHINA VILLA: 2
+CHINA VILLA OFF WORESTER ROAD: 1
+CHINA VILLA OFF WORESTER ROAD only shows up in vol16_134.tif2
+CITY GATES: 1
+CITY GATES only shows up in vol16_033.tif1
+CLATHAM FLATS: 2
+China Villa: 1
+China Villa only shows up in vol16_112.tif2
+DAHLIA FLATS: 1
+DAHLIA FLATS only shows up in vol16_313.tif2
+DE VILLIERS STREET FLATS: 2
+DENTON TERRACE: 2
+FLAT 1: 1
+FLAT 1 only shows up in vol16_320.tif3
+FLAT 3: 1
+FLAT 3 only shows up in vol16_071.tif2
+FLAT 5: 1
+FLAT 5 only shows up in vol16_244.tif1
+FLAT 7: 2
+FLAT 9 BLOCK 14: 1
+FLAT 9 BLOCK 14 only shows up in vol16_081.tif2
+FLATS: 17
+FOREST VIEW: 3
+FOREST VIEW, WALMER ESTATE: 1
+FOREST VIEW, WALMER ESTATE only shows up in vol16_034.tif3
+GARDEN VILLAGE: 1
+GARDEN VILLAGE only shows up in vol16_030.tif2
+GARDENS: 1
+GARDENS only shows up in vol16_287.tif4
+GLEEMOOR: 1
+GLEEMOOR only shows up in vol16_385.tif4
+GLEEMOR: 1
+GLEEMOR only shows up in vol16_043.tif1
+GREGGS CREST: 1
+GREGGS CREST only shows up in vol16_200.tif3
+HAZENDAL ESTATE: 1
+HAZENDAL ESTATE only shows up in vol16_058.tif4
+HILL COTTAGES: 1
+HILL COTTAGES only shows up in vol16_339.tif1
+HUGA VALE: 1
+HUGA VALE only shows up in vol16_032.tif4
+INFELBERG HOSTEL: 1
+INFELBERG HOSTEL only shows up in vol16_164.tif3
+LAVENDER HILL: 1
+LAVENDER HILL only shows up in vol16_012.tif3
+MARGOT: 1
+MARGOT only shows up in vol16_340.tif1
+MATROOSFONTEIN: 1
+MATROOSFONTEIN only shows up in vol16_187.tif3
+MILBRITA COURT: 1
+MILBRITA COURT only shows up in vol16_320.tif2
+MONTIVEEN FLATS: 1
+MONTIVEEN FLATS only shows up in vol16_190.tif3
+MORRIEL SQUARE: 1
+MORRIEL SQUARE only shows up in vol16_236.tif4
+NO ADDRESS GIVEN: 1
+NO ADDRESS GIVEN only shows up in vol16_014.tif3
+OFF HANOVER STREET: 1
+OFF HANOVER STREET only shows up in vol16_397.tif1
+OFF KOEBERG STREET: 1
+OFF KOEBERG STREET only shows up in vol16_311.tif3
+OFF LONGMARKET ST: 3
+OFF MOUNT STREET: 1
+OFF MOUNT STREET only shows up in vol16_021.tif1
+OFF OF 3RD STREET: 2
+OFF OF SOMERSET ROAD: 1
+OFF OF SOMERSET ROAD only shows up in vol16_246.tif1
+OFF PONTIAC STREET: 1
+OFF PONTIAC STREET only shows up in vol16_160.tif4
+OFF STUCKERIS STREET: 1
+OFF STUCKERIS STREET only shows up in vol16_295.tif1
+OFF WILLIAM STREET: 1
+OFF WILLIAM STREET only shows up in vol16_146.tif1
+Off STUCKERIS: 2
+PALYTHE FLATS: 1
+PALYTHE FLATS only shows up in vol16_076.tif4
+PORTERVILLE C.P.: 1
+PORTERVILLE C.P. only shows up in vol16_015.tif4
+POST OFFICE FLATS: 1
+POST OFFICE FLATS only shows up in vol16_113.tif2
+ROOM 1: 1
+ROOM 1 only shows up in vol16_285.tif4
+ROOM 3: 1
+ROOM 3 only shows up in vol16_286.tif1
+ROOM 41 MARKET BUILDING: 1
+ROOM 41 MARKET BUILDING only shows up in vol16_207.tif4
+ROOM 9: 2
+ROSALIE: 1
+ROSALIE only shows up in vol16_336.tif1
+SACKVILLE GRANDE VIEW B, W.E.: 1
+SACKVILLE GRANDE VIEW B, W.E. only shows up in vol16_273.tif1
+SEFTON VILLA: 1
+SEFTON VILLA only shows up in vol16_323.tif2
+SOREY LANE: 1
+SOREY LANE only shows up in vol16_324.tif4
+STAKEBY LEWIS HOSTEL: 1
+STAKEBY LEWIS HOSTEL only shows up in vol16_142.tif1
+STIRLING STREET FLATS: 7
+STONESBY LEWIS HOSTEL: 1
+STONESBY LEWIS HOSTEL only shows up in vol16_389.tif4
+SUNNYSIDE: 1
+SUNNYSIDE only shows up in vol16_198.tif1
+TAFELBERG HOSTEL: 1
+TAFELBERG HOSTEL only shows up in vol16_033.tif4
+TINA: 1
+TINA only shows up in vol16_322.tif4
+UPPER: 1
+UPPER only shows up in vol16_237.tif4
+UPPER STUCKERIS: 1
+UPPER STUCKERIS only shows up in vol16_208.tif2
+VERNON TERRACE: 1
+VERNON TERRACE only shows up in vol16_253.tif2
+VICCTORY FLATS: 3
+VICTORY FLATS: 6
+Vasco: 1
+Vasco only shows up in vol16_250.tif3
+W.E.: 1
+W.E. only shows up in vol16_203.tif4
+WALMER ESTATE: 4
+WALMER ESTATES: 3
+WELLINGTON: 1
+WELLINGTON only shows up in vol16_329.tif1
+X6 New Town, Malroosfontieu, Elisies River: 1
+X6 New Town, Malroosfontieu, Elisies River only shows up in vol16_010.tif1
+
+
+ARCHIVAL NOTES
+vol16_278.tif4: CONSTITUTION STREET FLATS
+vol16_292.tif1: Second address reads: '966 5th Avenue'
+vol16_216.tif3: Off Worcester Ro
+vol16_114.tif3: Address reads: '24 Stirling St. Flats'
+vol16_324.tif4: 4 SOREY LANE MOUNT STREET
+vol16_076.tif4: Note in margin reads 'adult baptism', address reads "1 Palythe flats, off Gaumin street
+vol16_164.tif2: The Father's surname is DeWet. Father's address is 10 AYRE STREET 
+vol16_171.tif2: note in margin reads: 'clinical', Address reads: '38, Constitution St. Flats'
+vol16_262.tif4: Address in witness lives at (19 BLOEMHOF FLATS CAPE TOWN)
+vol16_204.tif2: Second address listed: 99 LUGMAALLAAN FACTRETON
+vol16_051.tif3: Number belongs to OTHER not STREET
+vol16_352.tif2: Note in margin reads: 'clinical'; not in address column reads: baptized at Groote Schuur Hospital
+vol16_255.tif3: 33 STITLING STREET FLATS
+vol16_320.tif4: STIRLING STREET FLATS
+vol16_236.tif4: The address reads Morriel Square off Darling Street
+vol16_343.tif3: Address reads: 4 Victory Flats, Chatham Street, Cape Town
+vol16_292.tif2: Second address reads: 'Chatham Rd.'
+vol16_253.tif2: 24 VERNON TERRACE
+vol16_318.tif4: DE VILLIERS STREET FLATS

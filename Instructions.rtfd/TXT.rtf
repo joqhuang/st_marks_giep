@@ -1,0 +1,114 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fswiss\fcharset0 ArialMT;\f1\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red16\green60\blue192;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid2\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\lin1440 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid3\'02\'02.;}{\levelnumbers\'01;}\fi-360\li2160\lin2160 }{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl400\partightenfactor0
+
+\f0\fs30 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Once the data from a baptismal register has been digitized according to the provided instructions, they will need to be cleaned to ensure that the spellings of addresses are consistent and match the georeferencer.
+\f1\fs24 \
+\pard\pardeftab720\sl280\partightenfactor0
+\cf2 \
+\pard\pardeftab720\sl400\partightenfactor0
+
+\f0\b\fs30 \cf2 Instructions
+\f1\b0\fs24 \
+\pard\pardeftab720\sl280\partightenfactor0
+\cf2 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl400\partightenfactor0
+\ls1\ilvl0
+\f0\fs30 \cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	1.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Before starting, make sure that your computer has a version of Python 3 installed.\uc0\u8232 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl400\partightenfactor0
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	1.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Open Terminal (Mac) or Command Prompt/PowerShell (Windows, depending on version).\uc0\u8232 \
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	2.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Type in 
+\i python --version 
+\i0 and then hit the enter key. This will tell you what version of Python is on your computer. Macs usually come with Python 2. \uc0\u8232 \
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl400\partightenfactor0
+\ls1\ilvl2\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	1.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 If your computer indicates that you have Python 2 but you think you\'92ve downloaded Python 3 already, try 
+\i python3 --version.
+\i0  If you have both Python 2 and 3 on your computer, just 
+\i python
+\i0  will call Python 2, and 
+\i python3 
+\i0 will be needed to call Python 3.\uc0\u8232 \uc0\u8232 \
+\ls1\ilvl2\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	2.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Any version of Python 3 is fine; it does not need to be the latest version.\uc0\u8232 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl400\partightenfactor0
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	3.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 If you do not have Python 3, download it at {\field{\*\fldinst{HYPERLINK "https://www.python.org/downloads/"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 https://www.python.org/downloads/}}.\uc0\u8232 \
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl400\partightenfactor0
+\ls1\ilvl2\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	1.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 You will need to restart Terminal/Command Prompt/Powershell after downloading Python. \uc0\u8232 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl400\partightenfactor0
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	2.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Create a folder for the data cleaning. In this folder, place the following files:\uc0\u8232 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl400\partightenfactor0
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	1.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 The spreadsheet of reference street names, renamed to 
+\i reference.csv
+\i0 \uc0\u8232 \
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl400\partightenfactor0
+\ls1\ilvl2\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	1.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 If the spreadsheet is in Excel, export it as a csv.\uc0\u8232 \
+\ls1\ilvl2\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	2.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Make sure that the section with the street names is titled STREETNAMES (see sample reference file for example) -- whether or not there are other columns will not affect the data cleaning.\uc0\u8232 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl400\partightenfactor0
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	2.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 The spreadsheet of data, renamed to 
+\i data.csv
+\i0 \uc0\u8232 \
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl400\partightenfactor0
+\ls1\ilvl2\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	1.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 If the spreadsheet is in Excel, export it as a csv.\uc0\u8232 \
+\ls1\ilvl2\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	2.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 If following the data extraction instructions provided, make sure to remove the top row, so that the first row has the headers 
+\i Input
+\i0 , 
+\i Filename
+\i0 , etc.\uc0\u8232 \
+\ls1\ilvl2\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	3.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Make sure that the names of the streets are in the column with the header 
+\i Street Name
+\i0  \uc0\u8232 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl400\partightenfactor0
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	3.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 The python script, 
+\i street_count.py
+\i0 \uc0\u8232 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl400\partightenfactor0
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	3.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Navigate to your newly created directory using the 
+\i cd 
+\i0 command. If your data cleaning folder is in your desktop in a directory called 
+\i data_cleaning
+\i0 , you would navigate there with the command 
+\i cd Desktop/data_cleaning 
+\i0 on a Mac or 
+\i cd Desktop\\data_cleaning
+\i0  on PC. Directory names are case sensitive, but using the 
+\i tab
+\i0  key after the first few keys will autocomplete directory names.\uc0\u8232 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl400\partightenfactor0
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	1.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 In order to ensure that you in the correct directory, type in 
+\i ls -l 
+\i0 \'a0and press enter. This will show you all the files in the current directory.\uc0\u8232 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl400\partightenfactor0
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	4.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Type 
+\i python street_count.py
+\i0  and hit enter. If you have both Python 2 and 3, you may have to enter 
+\i python3 street_count.py
+\i0 .\uc0\u8232 \
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	5.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 A new spreadsheet will be generated called 
+\i street_inventory.csv
+\i0 . It will list the names of streets, how many times each name shows up, and whether or not it matches any of the names from the provided reference list. A sample of output for volume 16 is provided.\uc0\u8232 \
+}
